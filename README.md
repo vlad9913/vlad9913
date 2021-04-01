@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there 👋 I'm Vlad
 
-<!--
-**vlad9913/vlad9913** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I'm passionate about:
+  - Computer Science
+  - A.I.
+  - Python
+  - Music :)
+
+
+🌱 I’m currently learning:
+  - Software systems validation
+  - PostgreSQL
+  - Data interpretation
+
+⚡ Planning to study:
+  - Video Game development
+  - Advanced Machine Learning
+

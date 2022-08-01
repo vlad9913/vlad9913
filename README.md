@@ -3,18 +3,16 @@
 
 
 🔭 I'm passionate about:
-  - Computer Science
-  - A.I.
-  - Python
-  - Music :)
+  - Backend development
+  - Data modeling
+  - Software quality
 
 
 🌱 I’m currently learning:
-  - Software systems validation
-  - PostgreSQL
-  - Data interpretation
+  - GCP
+  - Django
+
 
 ⚡ Planning to study:
-  - Video Game development
-  - Advanced Machine Learning
-
+  - Advanced cloud architecture
+  - Frontend development
